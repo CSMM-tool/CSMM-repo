@@ -2,10 +2,6 @@
     {
         "name":"csmm-std-dummy",
         "repo":"https://github.com/CSMM-tool/csmm-std-dummy",
-        "version":"main",
         "summary":"Dummy module for module development",
-        "dependencies":"",
-        "defines":"",
-	"license":""
     }
 ]
