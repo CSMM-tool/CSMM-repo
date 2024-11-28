@@ -2,6 +2,6 @@
     {
         "name":"csmm-std-dummy",
         "repository":"https://github.com/CSMM-tool/csmm-std-dummy",
-        "summary":"Dummy module for module development",
+        "summary":"Dummy module for module development"
     }
 ]
